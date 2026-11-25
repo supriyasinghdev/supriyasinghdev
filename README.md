@@ -1,56 +1,52 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SUPRIYA SINGH | PROFILE                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090F,35:24104A,70:5B21B6,100:06B6D4&text=SUPRIYA%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CSE%20%7C%20BUILDING%20WITH%20PURPOSE&descAlignY=59&descSize=15&animation=fadeIn" alt="Supriya Singh — Software Engineering"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:080B18,25:17123B,55:4527A0,80:087E8B,100:0B1220&text=SUPRIYA%20SINGH&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20COMPUTER%20SCIENCE&descSize=16&descAlignY=62&animation=fadeIn" alt="Supriya Singh"/>
 
 <br/>
 
-<a href="https://github.com/supriyasinghdev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Software+Engineering+Enthusiast;Turning+Ideas+into+Structured+Solutions;Exploring+System+Design+%26+Architecture;Learning.+Building.+Improving." alt="Typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Engineering+ideas+into+real+solutions;Curious+about+how+great+software+is+built;Think+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated tagline"/>
 
 <br/><br/>
 
-<a href="https://github.com/supriyasinghdev">
-  <img src="https://komarev.com/ghpvc/?username=supriyasinghdev&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/supriyasinghdev?tab=followers">
-  <img src="https://img.shields.io/github/followers/supriyasinghdev?label=FOLLOWERS&style=for-the-badge&color=0891B2&logo=github" alt="Followers"/>
-</a>
-<a href="https://github.com/supriyasinghdev?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<a href="https://github.com/supriyasinghdev"><img src="https://komarev.com/ghpvc/?username=supriyasinghdev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/supriyasinghdev?tab=followers"><img src="https://img.shields.io/github/followers/supriyasinghdev?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="Followers"/></a>
+<a href="https://github.com/supriyasinghdev?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
-**Engineering thoughtful solutions. Building software that matters.**
+**I’m not just interested in writing code — I’m interested in engineering better solutions.**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-<img align="right" width="245" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub icon"/>
+## 👋 Hello, I'm Supriya!
 
-Hi! I'm **Supriya Singh**, a Computer Science Engineering student at **Government Engineering College, Sheikhpura**.
+🎓 **Computer Science Engineering Student**  
+🏛️ Government Engineering College, Sheikhpura
 
-I'm passionate about **Software Engineering** — the discipline of understanding problems, designing reliable solutions, and building software through a structured engineering approach.
+My core interest is **Software Engineering** — understanding real-world problems and transforming ideas into well-designed, reliable, and maintainable software.
 
-- 🎓 CSE student at Government Engineering College, Sheikhpura
-- 🧠 Interested in software design, architecture, and problem-solving
-- 🏗️ Exploring how scalable and maintainable software is engineered
-- 🔍 Interested in clean code, testing, debugging, and quality
-- 🤝 Open to learning, meaningful collaboration, and software projects
+I enjoy exploring the thinking behind software: how requirements are understood, systems are designed, code is structured, and quality is improved.
 
-<br clear="right"/>
+</td>
+<td width="42%" align="center">
 
----
+<img width="90%" src="https://skillicons.dev/icons?i=github,git,vscode&perline=3" alt="Developer tools"/>
 
-## 💜 My Software Engineering Interests
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MINDSET-ENGINEER%20WITH%20PURPOSE-7C3AED?style=for-the-badge&labelColor=101426" alt="Engineering mindset"/>
+
+</td>
+</tr>
+</table>
+
+## ✦ The way I think about Software Engineering
 
 <div align="center">
 
@@ -58,52 +54,58 @@ I'm passionate about **Software Engineering** — the discipline of understandin
 <tr>
 <td align="center" width="33%">
 
-### 🧩
-**Problem Analysis**
+<img src="https://img.shields.io/badge/01-0B1220?style=for-the-badge&labelColor=6D28D9" alt="01"/>
 
-Understanding requirements, breaking down complex problems, and planning practical solutions.
+### 🔍 Understand
 
-</td>
-<td align="center" width="33%">
-
-### 🏛️
-**Software Design**
-
-Exploring architecture, design principles, modularity, and maintainable systems.
+Requirements, users, constraints & the actual problem.
 
 </td>
 <td align="center" width="33%">
 
-### 🛡️
-**Software Quality**
+<img src="https://img.shields.io/badge/02-0B1220?style=for-the-badge&labelColor=0891B2" alt="02"/>
 
-Learning testing, debugging, reliability, documentation, and continuous improvement.
+### 🏗️ Design
+
+Architecture, structure, modularity & clear solutions.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-0B1220?style=for-the-badge&labelColor=7C3AED" alt="03"/>
+
+### ⚙️ Develop
+
+Readable code, collaboration & thoughtful implementation.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 
-### ⚙️
-**Development Process**
+<img src="https://img.shields.io/badge/04-0B1220?style=for-the-badge&labelColor=0891B2" alt="04"/>
 
-Exploring SDLC, Agile concepts, planning, and iterative development.
+### 🧪 Test
 
-</td>
-<td align="center" width="33%">
-
-### 🔗
-**Version Control**
-
-Understanding Git workflows, GitHub collaboration, and change management.
+Testing, debugging & checking expected behavior.
 
 </td>
 <td align="center" width="33%">
 
-### 🚀
-**Continuous Learning**
+<img src="https://img.shields.io/badge/05-0B1220?style=for-the-badge&labelColor=6D28D9" alt="05"/>
 
-Turning concepts into practical work and improving through feedback.
+### 📦 Deliver
+
+Documentation, version control & useful outcomes.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/06-0B1220?style=for-the-badge&labelColor=0891B2" alt="06"/>
+
+### ♻️ Improve
+
+Feedback, maintenance & continuous learning.
 
 </td>
 </tr>
@@ -113,23 +115,31 @@ Turning concepts into practical work and improving through feedback.
 
 ---
 
-## 🧭 The Engineering Mindset
+## 🧠 Engineering Interests
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:06B6D4,100:7C3AED" alt="separator"/>
-
-`UNDERSTAND`　→　`ANALYZE`　→　`DESIGN`　→　`DEVELOP`　→　`TEST`　→　`IMPROVE`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:06B6D4,100:7C3AED" alt="separator"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ARCHITECTURE-6D28D9?style=for-the-badge" alt="Software architecture"/>
+<img src="https://img.shields.io/badge/SYSTEM-DESIGN-0891B2?style=for-the-badge" alt="System design"/>
+<img src="https://img.shields.io/badge/SDLC-AND%20AGILE-7C3AED?style=for-the-badge" alt="SDLC and Agile"/>
+<img src="https://img.shields.io/badge/CLEAN-CODE-0E7490?style=for-the-badge" alt="Clean code"/>
+<img src="https://img.shields.io/badge/SOFTWARE-TESTING-6D28D9?style=for-the-badge" alt="Software testing"/>
+<img src="https://img.shields.io/badge/PROBLEM-SOLVING-0891B2?style=for-the-badge" alt="Problem solving"/>
+<img src="https://img.shields.io/badge/TEAM-COLLABORATION-7C3AED?style=for-the-badge" alt="Team collaboration"/>
 
 </div>
 
-I believe great software is not just about writing code. It is about solving the right problem, making thoughtful engineering decisions, and delivering solutions that are understandable, reliable, and maintainable.
+| Area | What I'm interested in exploring |
+|:--|:--|
+| Software Design | Design principles, modularity, maintainability |
+| System Thinking | Architecture, components, and how systems work together |
+| Development Process | SDLC, Agile concepts, planning, iteration |
+| Quality Engineering | Testing, debugging, reliability, documentation |
+| Collaboration | Git, GitHub workflows, teamwork, code reviews |
 
 ---
 
-## 🛠️ Tools & Engineering Ecosystem
+## 🧰 My Engineering Toolkit
 
 <div align="center">
 
@@ -137,7 +147,7 @@ I believe great software is not just about writing code. It is about solving the
 <tr>
 <td align="center" width="50%">
 
-**Version Control & Collaboration**
+**Version Control**
 
 <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
 
@@ -146,76 +156,74 @@ I believe great software is not just about writing code. It is about solving the
 
 **Development Environment**
 
-<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-> This section highlights a small engineering-toolkit starting point. Programming languages and frameworks can be added when Supriya's actual experience is confirmed.
-
----
-
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<a href="https://github.com/supriyasinghdev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=supriyasinghdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/supriyasinghdev">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyasinghdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</a>
-
-<br/>
-
-<img width="92%" src="https://github-readme-streak-stats-eight.vercel.app/?user=supriyasinghdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=supriyasinghdev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<sub>Only confirmed tools are shown here. Languages, frameworks, and platforms can be added as her experience is confirmed.</sub>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
-
-- Building a strong foundation in software engineering principles
-- Understanding the complete software development lifecycle
-- Learning to design modular, readable, and maintainable applications
-- Practicing testing, debugging, and problem-solving
-- Collaborating on projects and learning from the developer community
-
----
-
-## 🌐 Let's Connect
+## 📈 GitHub Dashboard
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/supriya-singh-6ba07a370">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/supriyasinghdev">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=supriyasinghdev&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/supriyasinghdev">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriyasinghdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-**Have an interesting idea or want to collaborate on a project? Let's connect!**
+<img width="94%" src="https://github-readme-streak-stats-eight.vercel.app/?user=supriyasinghdev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=supriyasinghdev&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
+## 🚀 My Growth Roadmap
+
 <div align="center">
 
-### ✨ THINK DEEPLY. DESIGN SMARTLY. ENGINEER BETTER.
+| Focus | Direction |
+|:--|:--|
+| 📐 Engineering Foundations | Strengthen software engineering principles |
+| 🏛️ Design & Architecture | Understand how maintainable systems are structured |
+| 🧪 Quality | Build habits around testing and debugging |
+| 🤝 Collaboration | Learn through teamwork and open-source practices |
+| 💡 Practical Work | Turn concepts into useful projects |
 
-*“Great software is built with curiosity, clarity, and continuous improvement.”*
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:5B21B6,100:09090F" alt="Footer banner"/>
+---
+
+## 🤝 Let's Connect & Grow Together
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/supriya-singh-6ba07a370"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/supriyasinghdev"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
+
+<br/><br/>
+
+**Open to learning, exchanging ideas, and collaborating on meaningful projects.**
+
+<br/>
+
+### `THINK CLEARLY`  ·  `DESIGN THOUGHTFULLY`  ·  `ENGINEER BETTER`
+
+<sub>Thanks for visiting my profile. Have a wonderful day! ✨</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B1220,45:4527A0,75:087E8B,100:080B18" alt="Footer"/>
 
 </div>
